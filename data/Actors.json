@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"battlerName":"julio lutando","characterIndex":0,"characterName":"julio andando","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"rosto","traits":[{"code":33,"dataId":0,"value":5}],"initialLevel":1,"maxLevel":1,"name":"Júlio","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"homem fazenda seu miguel","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"homem fazenda seu miguel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Func. Fazenda do Miguel","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"comerciante","classId":2,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"comerciante","traits":[],"initialLevel":1,"maxLevel":99,"name":"Comerciante","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"grávida andando","classId":2,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"rosto grávida","traits":[],"initialLevel":1,"maxLevel":99,"name":"Moça grávida","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mulher loja comerciante","traits":[],"initialLevel":1,"maxLevel":99,"name":"mulher loja","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"homem loja andando","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"homem loja comerciante","traits":[],"initialLevel":1,"maxLevel":99,"name":"homem loja comerciante","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"criança cidade","traits":[],"initialLevel":1,"maxLevel":99,"name":"criança cidade","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"homem cidade","traits":[],"initialLevel":1,"maxLevel":99,"name":"homem cidade","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"homem cidade1","traits":[],"initialLevel":1,"maxLevel":99,"name":"homem cidade 1","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"mulher associação","traits":[],"initialLevel":1,"maxLevel":99,"name":"mulher associação","nickname":"","note":"","profile":"mulher associação"},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mulher cidade 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"mulher cidade","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mulher cidade","traits":[],"initialLevel":1,"maxLevel":99,"name":"mulher cidade","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

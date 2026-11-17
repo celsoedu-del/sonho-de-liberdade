@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":1,"damage":{"critical":true,"elementId":1,"formula":"a.atk","type":1,"variance":20},"description":"","effects":[{"code":21,"dataId":0,"value1":1,"value2":0}],"hitType":1,"iconIndex":76,"message1":" ataca!","message2":"","mpCost":0,"name":"Ataque","note":"Habilidade #1 será usada quando você selecionar o comando de Ataque.","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":20},
+{"id":2,"animationId":41,"damage":{"critical":false,"elementId":0,"formula":"a.mhp","type":3,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":72,"message1":" conjura %1!","message2":"","mpCost":25,"name":"Curar","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":10}
+]
